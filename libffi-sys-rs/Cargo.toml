@@ -2,7 +2,7 @@
 name = "libffi-sys"
 version = "2.3.0"
 authors = ["Jesse A. Tov <jesse.tov@gmail.com>"]
-links = "ffi"
+# links = "ffi"
 build = "build/build.rs"
 description = "Raw Rust bindings for libffi"
 repository = "https://github.com/tov/libffi-rs"
